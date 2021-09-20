@@ -1,0 +1,2 @@
+# mycodes
+ilk denemeler
